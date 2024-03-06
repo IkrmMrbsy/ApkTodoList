@@ -1,4 +1,4 @@
-# Judul Proyek: Aplikasi Todo List
+# Aplikasi Todo List with Java
 
 ## Deskripsi
 Aplikasi Todo List adalah sebuah program sederhana yang memungkinkan pengguna untuk mencatat dan mengelola daftar tugas yang harus dilakukan.
